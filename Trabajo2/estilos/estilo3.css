@@ -1,0 +1,71 @@
+*{
+    font-family: Arial;
+}
+body {
+    background-image: url(../images/fondo2.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+div{
+    border-style: none; 
+    margin: 7px;
+    padding: 100px;
+}
+#caja1{
+    border-color: red;
+    background-color: cornflowerblue;
+    margin: 2px;
+    padding: 2px;
+}
+#caja2{
+    margin: 0 7px 7px 7px;
+    /*background-color:paleturquoise;*/
+    width: 5%;
+    float: left;
+    height: 500px;
+}
+#menu {
+    margin: 0 7px 7px 7px;
+    background-color:paleturquoise;
+    width: 5%;
+    float: left;
+    height: 500px;
+    border-radius: 98px 98px 98px 98px;
+    -moz-border-radius: 98px 98px 98px 98px;
+    -webkit-border-radius: 98px 98px 98px 98px;
+    border: 9px double #001eff;
+}
+#caja3{
+    margin: 0 7px 7px 0;
+    border-color: darkgray;
+    width: 40%;
+    float: left;
+    height: 500px;
+}
+#caja4{
+    margin: 0 0 7px 7px;
+    width:5%;
+    float: left;
+    height: 500px;
+}
+#caja5{
+    border: 2px coral dotted;
+    margin: 0 ;
+    border-color: darkolivegreen;
+    float: left;
+    width: 86%;
+    height: 10px; 
+}
+p{
+    color: ghostwhite;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkgreen;
+    text-align: center;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: sandybrown;
+    text-align: center;
+}
